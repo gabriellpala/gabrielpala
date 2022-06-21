@@ -6,20 +6,20 @@
 
 <div> <br>
   <a href="https://instagram.com/gabpalla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:deyvisonogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deyvisonogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabriellpala@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https:/https://www.linkedin.com/in/gabriel-ferreira-pala-71b097240//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 #
 <br>
   
   <div align="center">
-  <a href="https://github.com/deyvisonogueira">
+  <a href="https://github.com/gabriellpala">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deyvisonogueira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisonogueira&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 
-![Snake animation](https://github.com/DeyvisonNogueira/deyvisonogueira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielPala/gabriellpala/blob/output/github-contribution-grid-snake.svg)
  
 
 ## 
